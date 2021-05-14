@@ -1,0 +1,8 @@
+﻿  Generate moc_predefs.h
+  UIC mainwindow.ui
+  系统找不到指定的路径。
+  MOC mainwindow.h
+  MOC ../../qcustomplot.h
+  系统找不到指定的路径。
+  系统找不到指定的路径。
+H:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(238,5): error MSB8066: “mainwindow.h;..\..\qcustomplot.h;debug\moc_predefs.h.cbt;mainwindow.ui”的自定义生成已退出，代码为 3。

@@ -1,0 +1,8 @@
+^H:\QCUSTOMPLOT\QCUSTOMPLOT\QCUSTOMPLOT\EXAMPLES\PLOTS\MAINWINDOW.H
+\bin\moc.exe  -DUNICODE -DWIN32 -DWIN64 -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include debug/moc_predefs.h -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/mkspecs/win32-msvc2015 -IH:/QCustomPlot/QCustomPlot/qcustomplot/examples/plots -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/include -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/include/QtPrintSupport -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/include/QtWidgets -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/include/QtGui -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/include/QtANGLE -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/include/QtCore mainwindow.h -o debug\moc_mainwindow.cpp
+^H:\QCUSTOMPLOT\QCUSTOMPLOT\QCUSTOMPLOT\QCUSTOMPLOT.H
+\bin\moc.exe  -DUNICODE -DWIN32 -DWIN64 -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include debug/moc_predefs.h -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/mkspecs/win32-msvc2015 -IH:/QCustomPlot/QCustomPlot/qcustomplot/examples/plots -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/include -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/include/QtPrintSupport -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/include/QtWidgets -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/include/QtGui -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/include/QtANGLE -IH:/Qt/Qt5.8.0/5.8/msvc2015_64/include/QtCore ..\..\qcustomplot.h -o debug\moc_qcustomplot.cpp
+^H:\QCUSTOMPLOT\QCUSTOMPLOT\QCUSTOMPLOT\EXAMPLES\PLOTS\DEBUG\MOC_PREDEFS.H.CBT
+cl -Bx"\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:strictStrings -Zc:throwingNew -Zi -MDd -GR -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E -Za \mkspecs\features\data\dummy.cpp 2>NUL >debug\moc_predefs.h
+^H:\QCUSTOMPLOT\QCUSTOMPLOT\QCUSTOMPLOT\EXAMPLES\PLOTS\MAINWINDOW.UI
+\bin\uic.exe mainwindow.ui -o ui_mainwindow.h
